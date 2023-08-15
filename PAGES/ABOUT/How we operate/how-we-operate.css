@@ -1,0 +1,100 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+
+#bg {
+    width: 100%;
+    height: 50px;
+    background-color: #252634;
+}
+
+#fb-logo {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 1180px;
+    top: 8px;
+
+}
+
+#In-logo {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 1200px;
+    top: 8px;
+}
+
+
+
+.content-navbar {
+    font-family: 'Poppins', sans-serif;
+    color: none;
+    font-size: 14px;
+}
+
+#nav-bar {
+    width: 100%;
+    height: 94px;
+    position: relative;
+}
+
+
+#nav-bar>nav {
+    height: 93px;
+    background-color: #f8f9fa;
+}
+
+#logo {
+    width: 28%;
+
+}
+
+#logo>img {
+    width: 200px;
+    height: 40px;
+    margin-left: 10%;
+
+}
+
+
+
+
+#navbarSupportedContent>div {
+    margin-left: 12%;
+    margin-right: 0%;
+    display: flex;
+    justify-content: space-between;
+    width: 81%;
+    margin-top: 2%;
+}
+
+
+
+
+
+.span1{
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+#helllo{
+    background-image: url(../../../IMAGES/images.jpg);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 1000px;
+}
